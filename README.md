@@ -1,2 +1,2 @@
 # springbootcloudconfiguration
-this is the boot configuration
+this is the boot configuration all we need
